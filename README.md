@@ -1,4 +1,11 @@
 
+![Python-Katas-From-Code-Wars](https://socialify.git.ci/korenkaplan/Python-Katas-From-Code-Wars/image?language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Light)
+
+
+
+
+
+
 # CodeWars Python Exercises
 
 This repository contains my solutions for Python exercises from CodeWars.
